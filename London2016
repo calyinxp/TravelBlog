@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> London 2016 </title>
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+	<script type="text/javascript" src="http://static.tumblr.com/3iwd31y/T1cndmnlh/random_buttons_17.js"></script>
+	
+	<link rel="icon" 
+      type="image/png" 
+      href="http://67.media.tumblr.com/tumblr_lkl5luW7uM1qfamg6.gif">
+	<link href='https://fonts.googleapis.com/css?family=Product+Sans' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+<style>
+	html {
+		background-color: #FFAAA6;
+		min-height: 100%;
+		position: relative;
+	}
+	
+	html, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-9/cur271.cur), progress !important;}
+	
+	h1 {
+            font-family: 'Indie Flower', Arial, sans-serif;
+            color: white;
+            Display: inline;
+            margin: 20px; 
+        }
+          
+        
+        #navbar {
+            width: 100%;
+            background-color: #DCEDC2;
+        }
+        
+        .Navbar {
+            display: inline;
+            Margin: 100px;
+            font-family: 'Indie Flower';
+            font-weight: bold;
+			font-size: 1.3em;
+            
+        }
+        
+        .Left {
+            background-color: #FFD3B5;
+            Border-radius: 25px;
+            margin-top: 20px;
+			position: fixed;
+        }
+        
+        #profile {
+            height: 150px;
+            border: 2px solid white;
+            border-radius: 100%;
+            margin-left: 20px;
+            margin-top: 20px;
+			display: block;
+        }
+        
+        h2{
+            font-family: 'Indie Flower';
+            Margin: 20px;
+        }
+        .SocialMedia {
+            font-family: 'Indie Flower';
+            Margin-left: 30px;
+            
+        }
+        
+        a {
+            text-decoration: none;
+            color: black;
+        }
+		a:visiter {
+			color: black;
+		}
+        a:hover {
+            text-decoration: none;
+            color: #EC2049;
+        }
+		
+		.Right {
+			background-color: #A8E6CE;
+			width: 80%;
+			float: right;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 2em;
+			border-radius: 2em;
+			margin-bottom: 7em;
+			
+		}
+		
+		
+		
+		p {
+			font-family: 'Indie Flower';
+			margin: 1em;
+			font-size: 1.4em;
+		}
+		
+		#Title {
+			display:block;
+			font-size: 40px;
+		}
+        
+		img {
+			height: 175px;
+			margin: 15px;
+			border: 3px solid white;
+			border-radius: 10px;
+			display: inline-block;
+		}
+		
+		::-webkit-scrollbar {width: 6px; height: 4px; background: #FFAAA6; }
+		::-webkit-scrollbar-thumb { background-color: white; -webkit-border-radius: 1ex; }
+		
+		footer {
+			position: absolute;
+			left: 0;
+    		bottom: 0;
+    		height: 100px;
+    		width: 100%;
+    		overflow: hidden;
+			text-align: right;
+			
+			
+		}
+		
+		body {
+			margin: 1em;
+			padding: 25px;
+		}
+		/* to here */
+		
+</style>
+</head>
+	
+	
+<body>
+	<div id="navbar">
+        <h1> Cal's Travel Blog </h1>
+          <a href="index.html"><p class= "Navbar"> Home </p></a>
+          <a href="About.html"><p class= "Navbar"> About Me </p></a>
+		<a href="Archive.html"><p class= "Navbar"> Archive </p></a>
+    </div>
+    <div class="Left">
+        <img id="profile" src="https://68.media.tumblr.com/13b28ea039aa84af63edfaaa5f5223ff/tumblr_olz3urIFwx1vgzyxso1_1280.jpg">
+        <h2> Find Me On </h2>
+        <a href="https://www.instagram.com/calyinxp/"><p class="SocialMedia"> Instagram </p></a>
+        <a href="https://www.youtube.com/c/calyinxp"><p class="SocialMedia"> Youtube </p></a>
+    	<a href="http://vsco.co/calyinxp/"><p class="SocialMedia"> VSCO </p></a>
+        <a href= "https://www.facebook.com/calyinxp"><p class="SocialMedia"> Facebook </p></a>
+    </div>
+    <div class="Right">
+		<h1 id="Title"> United Kingdom, London 2016 </h1>
+		<p> First time travelling to Europe, and I was really dreading it. Mostly because I hate flying and this would be the longest plane ride I've ever had to go through. It wasn't as bad as I thought it would be though (thankfully). Flight aside, London was really beautiful. It was nothing like what I expected because everything was so old! </p>
+		<h2> I was expecting the stereotypical "developed city" look, but many of their buildings still keep that victorian style of architecture. </h2>
+		<img src="http://68.media.tumblr.com/bc4def0c92759bff319b150fdc6e2631/tumblr_omdkr3gNl21vgzyxso4_1280.jpg">
+		<img class="portrait" src="http://68.media.tumblr.com/515a4bf66bf96e430b967d0fda433e6e/tumblr_omdkr3gNl21vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/a49261b6b9ece25d22ca46f82859fb6f/tumblr_omdkr3gNl21vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/2aacd7d3ca1121815aa4b38519e727db/tumblr_omdkr3gNl21vgzyxso1_540.jpg">
+		
+		<h2> For the first part of our trip, we stayed in an apartment in a district(??) called Hammersmith. I really love staying in a rented apartment/house when overseas, because it gives the experience of what living there is like! So what we learnt is that most houses in London are really narrow. There's not a lot of space in most of their housing. A lot of them has some kind of basement too. What I really like about our apartment was the rooftop though ^^ </h2>
+		<img src="http://68.media.tumblr.com/d48b05d4fb661c8fcad5f6eaf46540a2/tumblr_omck4pViXo1vgzyxso1_1280.jpg">
+		<img src="http://68.media.tumblr.com/1f081d3e324eb9241a9c8dee92000db4/tumblr_omdktshMI51vgzyxso1_1280.jpg">
+		<img src="http://68.media.tumblr.com/13b28ea039aa84af63edfaaa5f5223ff/tumblr_olz3urIFwx1vgzyxso1_1280.jpg">
+		
+		<h2> We got around using the train, and even the trains are old! They call the train stations Tube stations (though I'm not sure if they call the train itself tube... It sounds very strange to call it that.) If you ever go to London, you should get around fine with just public transport, just get their version of EZ Link cards (Oyster cards!) </h2>
+		<img src="http://68.media.tumblr.com/729e1c17072f341867e02b895b0c5472/tumblr_omdl4wzjGK1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/8c6bab41bdd154c157963476fc6717af/tumblr_omdl4wzjGK1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/1ff32cb9ff2afddcf1660c0f8090bebc/tumblr_omdl4wzjGK1vgzyxso2_540.jpg">
+		
+		<h2> Onto the tourist attractions, first up Madame Tussades! Highlights were Benedict Cumberbatch and Star Wars :P </h2>
+		<img src="http://68.media.tumblr.com/12380560117197b16ecfdeb9dbff64ce/tumblr_omdlewvWUk1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/6104e9b61bd06ee344258f7dd683f72e/tumblr_omdlewvWUk1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/85668fead3d8d9b4a8952754416a2c38/tumblr_omdmrbaEev1vgzyxso1_1280.jpg">
+		<img src="http://68.media.tumblr.com/af289c0b506dbaf095821aa9cb8c7ee3/tumblr_omdlewvWUk1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/64071aa8b3b60b629e7b642558ba7abd/tumblr_omdlewvWUk1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/b3cc0a65e46dbf639f5002825afd4792/tumblr_omdlewvWUk1vgzyxso6_540.jpg">
+		<img src="http://68.media.tumblr.com/3fd5dd46cad9a8d0c6b3ced64a9c4448/tumblr_omdlewvWUk1vgzyxso5_540.jpg">
+		<img src="http://68.media.tumblr.com/261136cdef30c574462f5816b2865b9d/tumblr_omdlewvWUk1vgzyxso7_540.jpg">
+		<img src="http://68.media.tumblr.com/01da107048a17bdd49c6edc15848f5a6/tumblr_omdlewvWUk1vgzyxso8_540.jpg">
+		
+		<h2> Outdoor ice skating at Somerset House. </h2>
+		<img src="http://68.media.tumblr.com/ba234c06758f898618eaf9be09987fac/tumblr_omdlme5MKe1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/59b867835c49142edd053d56dc0acec0/tumblr_omdlme5MKe1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/46a8ff4742db913a248ffb3ac1b982c0/tumblr_omdlme5MKe1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/846644d63e5b32ba8ebe296561e38560/tumblr_omdlme5MKe1vgzyxso1_540.jpg">
+		
+		<h2> Windsor Castle was a bit out of the way, but nothing uber can't solve ^^ The castle grounds were really big and scenic. Apparently the queen stays there in winter, but she was ill so she left a day before. </h2>
+		<img src="http://68.media.tumblr.com/1225247c630545cbad55157366525c8b/tumblr_omdlvnCiWN1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/e5e264fd554451dd64f29c6bde578636/tumblr_omdlvnCiWN1vgzyxso5_540.jpg">
+		<img src="http://68.media.tumblr.com/17d3dcd817ad68285fcb62ddf5dc5c80/tumblr_omdlvnCiWN1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/31950b442e6d9935032e65cb6a3aabc7/tumblr_omdmj37gc81vgzyxso1_1280.jpg">
+		<img src="http://68.media.tumblr.com/d1194fd955b5ee1891ed3080665b1798/tumblr_omdlvnCiWN1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/5db4fc394958233fcc0170f2faa48df3/tumblr_omdlvnCiWN1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/84e48c1597408996407e97e526dfb267/tumblr_omdnn0Ro1s1vgzyxso1_1280.jpg">
+		
+		<h2> We also visited some churches and they were really cool~ Some were used as film sites for Harry Potter! Can you spot something familiar? </h2>
+		<img src="http://68.media.tumblr.com/ad46cafd51f72231cf757790c418d911/tumblr_omdmh1Yrrx1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/0d02afaf14114987619173c61eddf34c/tumblr_omdmh1Yrrx1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/56165bfc5cfe9cbede73b49595c4349d/tumblr_omdmh1Yrrx1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/52213093ab374ed47ca300bfe234daf4/tumblr_omdmp3HSMU1vgzyxso1_1280.jpg">
+		
+		<h2> Museums! </h2>
+		<img src="http://68.media.tumblr.com/eadba9f552de5c04913ace6e772ccc4a/tumblr_inline_omdmye2TjJ1tbv3bk_1280.jpg">
+		<img src="http://68.media.tumblr.com/09ce6fae085f404eb0ec07ec85a3912b/tumblr_omdn28mavc1vgzyxso1_1280.jpg">
+		<img src="http://68.media.tumblr.com/f78a1eeca3d527f52ad8ffdbb7a3fb7c/tumblr_omdmylRnrr1vgzyxso1_1280.jpg">
+		
+		<h2> We also spent a lot of time just walking around London, especially the River Thames. We couldn't recognise Big Ben because it actually looks like a lot of the other old tall buildings there. (We didn't get a picture of Big Ben too.) 
+		We had a scary run in with some of these volunteers from a church while we were walking around. It looked like they were giving out these small flowers and said it was for some kind of Children's Day. And they sneakily managed to separate my sister and me from our parents so we had to fend for ourselves. Honestly, we didn't have any money on us so I said our parents would donate cos we don't have any money. And the lady made a money gesture and emphasised it's for the kids but we didn't have any money. Then she said "No money, no flowers for you." And she just snatched back the flowers she gave us and walked off. 
+		Lesson learnt, be careful of scammers folks. If you wanna do a good deed the best way is to buy a coffee for a homeless and make someone's day ^^ </h2>
+		<img src="http://68.media.tumblr.com/cefffe118a06aed6b93329aa73cdfaf2/tumblr_omdmvz7U2l1vgzyxso8_540.jpg">
+		<img class="portrait" src="http://68.media.tumblr.com/a5edb045080ec07322857974af57e2a3/tumblr_omdmvz7U2l1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/06c38cb7710740264eb050182e602e91/tumblr_omdmvz7U2l1vgzyxso7_540.jpg">
+		<img src="http://68.media.tumblr.com/d17b612424ff3104cf51b6ec7da536b3/tumblr_omdmvz7U2l1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/03dcf8d5be31e666abb8f553d93c10db/tumblr_omdmvz7U2l1vgzyxso5_540.jpg">
+		<img src="http://68.media.tumblr.com/a50ce3c5b07f458324877ca9f3273a2b/tumblr_omdmvz7U2l1vgzyxso6_540.jpg">
+		<img src="http://68.media.tumblr.com/8e7d5bbf94720d96e2df2d022b609b41/tumblr_omdmvz7U2l1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/03df40d0f4ed79ffe369145282102ebf/tumblr_omdmvz7U2l1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/f75b8287455bb4c56671a1d7dcf2b1bf/tumblr_omdnw7x6og1vgzyxso1_1280.jpg">
+		
+		<h2> I lost a lot of my photos as I had to factory reset my phone when it went in for repairs :( So I don't have much of the other tourist attractions we went to. Some of the stuff we did include going to the museums, food markets and a Christmas fair/market! Then we left for the countryside in a rental car~ 
+		Our journey took 4-5 hours, making a stop at Oxford (the city where Oxford University is located). Our destination was Wotton-under-edge, a really small town in the countryside. The owners were really sweet and made us feel very welcome! Here's some snaps of the house and the view! </h2>
+		<img src="http://68.media.tumblr.com/4bd07daa1a0db0ccdff10015278a65c3/tumblr_omdn6q9zFI1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/9ecf6884ecda5622b462ad27fa273b79/tumblr_omdn6q9zFI1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/4167bc699910bbc2fb25a922a84b6082/tumblr_omdn6q9zFI1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/ef53b5246fbca8706afc172427a8eadb/tumblr_omdn6q9zFI1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/a64401afd429bf90e8b0996cd61d3b36/tumblr_omdn6q9zFI1vgzyxso5_540.jpg">
+	
+	<h2> There were really lovely hiking trails and we climbed up, about 10 storeys worth, a really nice hill with a beautiful view of the surrounding area. It was really foggy so the lighting was bad, but I won't forget the view up there. </h2>	
+		<img src="http://68.media.tumblr.com/e14cb88241f59874084e4d9c3bb9a43e/tumblr_omdnf1mkE01vgzyxso10_540.jpg">
+		<img src="http://68.media.tumblr.com/2922f7dc8e5476d0ec0c8dfd3107efba/tumblr_omdnf1mkE01vgzyxso9_540.jpg">
+		<img src="http://68.media.tumblr.com/9ea980cb71a2fbb38494fe0e40e42f41/tumblr_omdnf1mkE01vgzyxso8_540.jpg">
+		<img src="http://68.media.tumblr.com/a7831f9b70e28165e5d8dd892cce0369/tumblr_omdnf1mkE01vgzyxso6_540.jpg">
+		<img src="http://68.media.tumblr.com/9ff412d49b8bd37c07d2ae27ef083553/tumblr_omdnf1mkE01vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/b78f4b8f6908df37b9625c7a9aa46f26/tumblr_omdnf1mkE01vgzyxso5_540.jpg">
+		<img src="http://68.media.tumblr.com/8f9a5d2398c75e42b9d12c6efcb3c3ee/tumblr_omdnf1mkE01vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/c68431bbf1213d9a108e9ca1dccf20b9/tumblr_omdnf1mkE01vgzyxso7_540.jpg">
+	
+	<h2> And also we spent Christmas here! We have family living in UK and took a trip down to the countryside to celebrate with us too! </h2>
+		<img src="http://68.media.tumblr.com/679e9cb3641900ee9f5554cf419ebde8/tumblr_omdnli4Xm81vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/eea1d42a70ca60f6b0af17f079d8efc3/tumblr_omdnli4Xm81vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/ab156927980782e0a10d32dba23919a5/tumblr_omdnli4Xm81vgzyxso2_540.jpg">
+		
+	<h2> We also found out that Boxing Day is a big thing there. In the country side, most stores are still closed and we struggled to find a place to eat. But in London, Boxing Day sales are just massive and really hectic. Here's some shots of the ghost towns we visited trying to find food :') </h2>
+		<img src="http://68.media.tumblr.com/14d869eccd0bb1969c042e03ba41e929/tumblr_omdnu6bx2x1vgzyxso6_540.jpg">
+		<img src="http://68.media.tumblr.com/8ea1a42b7a1031fdbb650911b1a4b7a5/tumblr_omdnu6bx2x1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/4a7979fc83c1ead9bce2f1f103aa8cd3/tumblr_omdnu6bx2x1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/9e19d61e7e6392ee06710c0d35a30de5/tumblr_omdnu6bx2x1vgzyxso5_540.jpg">
+		<img src="http://68.media.tumblr.com/6f78c9b1777203fd45cca36dcb4f59cc/tumblr_omdnu6bx2x1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/661f5817bfcf9009e5bcdafc575f6145/tumblr_inline_omdskiTBbq1tbv3bk_1280.jpg">
+		<img src="http://68.media.tumblr.com/18593bf87e8222aa6029953f2097d36f/tumblr_omdskvvbbQ1vgzyxso1_1280.jpg">
+		<img src="http://68.media.tumblr.com/315a3ec311c5e0b824ab65bfe3e31874/tumblr_omdnu6bx2x1vgzyxso3_540.jpg">
+		
+	<h2> The next day, it was back to London! We made a stop at a palace that has been converted to a hotel (our relatives stayed there for the night) and once again at Oxford. </h2>
+		<img src="http://68.media.tumblr.com/8008ebb431b297b9f40205143dc99ea9/tumblr_omdo6yM7bf1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/6e6f0aa7b832457039bacca1175ffe32/tumblr_omdo6yM7bf1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/894e7c1d907712c60d9d32620dc24094/tumblr_omdo6yM7bf1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/9fa6587a7c578241cf522854299bc2e3/tumblr_inline_omdo0mBFiz1tbv3bk_1280.jpg">
+		<img src="http://68.media.tumblr.com/30365c7b5b656835ea615aa7510c3e15/tumblr_inline_omdo16YzAh1tbv3bk_1280.jpg">
+		<img src="http://68.media.tumblr.com/993f5c47ddaabe2811d1fe1c3c7d4718/tumblr_inline_omdo16Daxk1tbv3bk_1280.jpg">
+		
+	<h2> Our trip was coming to an end at this point, with only... 2 days? in London left. We stayed at a hotel in Kensington. It looked like any other old building except decorated with flags showing the hotel's logo. If you weren't observant you wouldn't have known it was a hotel at all! 
+	The next day we went to Kensington Gardens, which is kinda like a really big nice park, and also to see the palace located there. I really enjoyed the day making friends with the squirrels, swans and geese. </h2>	
+		<img src="http://68.media.tumblr.com/0af8a444250c0901d9bc1c2295b9a425/tumblr_inline_omdsrgksST1tbv3bk_1280.jpg">
+		<img src="http://68.media.tumblr.com/d16535e8ccfd750268e334ff09a50c9a/tumblr_omdstdLYyb1vgzyxso10_540.jpg">
+		<img src="http://68.media.tumblr.com/bfb094da3b23c1ae40f69b1c68184f30/tumblr_omdstdLYyb1vgzyxso9_540.jpg">
+		<img src="http://68.media.tumblr.com/e83862040581cd66f9838f93130043d2/tumblr_omdstdLYyb1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/741226acf9f6b3b15c502e43711acb7c/tumblr_omdstdLYyb1vgzyxso8_540.jpg">
+		<img src="http://68.media.tumblr.com/e9c22bbf27ceb945ac9c16094ac1746d/tumblr_omdstdLYyb1vgzyxso7_540.jpg">
+		<img src="http://68.media.tumblr.com/b23d137e8c95c1a1fe239e6d84e2f297/tumblr_omdstdLYyb1vgzyxso6_540.jpg">
+		<img src="http://68.media.tumblr.com/fa7220fbc15aa842b4f1ebf10ff4cc8c/tumblr_omdstdLYyb1vgzyxso5_540.jpg">
+		<img src="http://68.media.tumblr.com/49b14d2f0c9e892fc81ae512857d2664/tumblr_omdstdLYyb1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/208b33e505256a845c996b1d79f20ada/tumblr_omdstdLYyb1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/44fc875cfa6f4b49891f3df57a4401e9/tumblr_omdstdLYyb1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/51963eae6851b161f4e4d7386c7749d3/tumblr_omdt2mhrIZ1vgzyxso6_540.jpg">
+		<img src="http://68.media.tumblr.com/b2414735139e7aa551e4f149c479c9fa/tumblr_omdt2mhrIZ1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/e071337410daa9522e7cdfe7edf7edd6/tumblr_omdt2mhrIZ1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/ee679be8e065d5bc138539b30eb7686c/tumblr_omdt2mhrIZ1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/fcc5a6be6f86fb735daefaf23a4717e9/tumblr_omduvw7sYO1vgzyxso6_540.jpg">
+		<img src="http://68.media.tumblr.com/71ffd01603ae19cd7481acf7640072e7/tumblr_omduvw7sYO1vgzyxso5_540.jpg">
+		<img src="http://68.media.tumblr.com/fe59c7dd94301f6179c8abf73f2be67f/tumblr_omduvw7sYO1vgzyxso4_540.jpg">
+		<img src="http://68.media.tumblr.com/bc9d048059406a0d965236eea902fad6/tumblr_omduvw7sYO1vgzyxso3_540.jpg">
+		<img src="http://68.media.tumblr.com/bdefed27c2ee3cb77b46dd1d2e217b41/tumblr_omduvw7sYO1vgzyxso2_540.jpg">
+		<img src="http://68.media.tumblr.com/19c80fb2ca3f24b158f490d5523480bd/tumblr_omduvw7sYO1vgzyxso1_540.jpg">
+		<img src="http://68.media.tumblr.com/4e8fe488b0ed7e215a8dfeb13c8333bf/tumblr_omdt2mhrIZ1vgzyxso2_540.jpg">
+		
+	<h2> And then it was back to Singapore~ It was fun experiencing the British way of life for the 9-10 days we were there ^^ </h2>
+		<img src="https://68.media.tumblr.com/d3d5e2495633ff4f1c22ca7f8bfa6cda/tumblr_omox6iyPvU1vgzyxso2_1280.jpg">
+	<p>
+	<a href="Australia2016.html"><p> Previous Post: Australia 2015 </p></a>
+	</div>
+	
+	
+</body>
+</html>
