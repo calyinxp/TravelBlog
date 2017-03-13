@@ -149,10 +149,10 @@
     <div class="Left">
         <img id="profile" src="https://68.media.tumblr.com/13b28ea039aa84af63edfaaa5f5223ff/tumblr_olz3urIFwx1vgzyxso1_1280.jpg">
         <h2> Find Me On </h2>
-        <a href="https://www.instagram.com/calyinxp/"><p class="SocialMedia"> Instagram </p></a>
-        <a href="https://www.youtube.com/c/calyinxp"><p class="SocialMedia"> Youtube </p></a>
-    	<a href="http://vsco.co/calyinxp/"><p class="SocialMedia"> VSCO </p></a>
-        <a href= "https://www.facebook.com/calyinxp"><p class="SocialMedia"> Facebook </p></a>
+        <a href="https://www.instagram.com/calyinxp/" target="_blank"><p class="SocialMedia"> Instagram </p></a>
+        <a href="https://www.youtube.com/c/calyinxp" target="_blank"><p class="SocialMedia"> Youtube </p></a>
+    	<a href="http://vsco.co/calyinxp/" target="_blank"><p class="SocialMedia"> VSCO </p></a>
+        <a href= "https://www.facebook.com/calyinxp" target="_blank"><p class="SocialMedia"> Facebook </p></a>
     </div>
     <div class="Right">
 		<h1 id="Title"> United Kingdom, London 2016 </h1>
@@ -168,7 +168,7 @@
 		<img src="http://68.media.tumblr.com/1f081d3e324eb9241a9c8dee92000db4/tumblr_omdktshMI51vgzyxso1_1280.jpg">
 		<img src="http://68.media.tumblr.com/13b28ea039aa84af63edfaaa5f5223ff/tumblr_olz3urIFwx1vgzyxso1_1280.jpg">
 		
-		<h2> We got around using the train, and even the trains are old! They call the train stations Tube stations (though I'm not sure if they call the train itself tube... It sounds very strange to call it that.) If you ever go to London, you should get around fine with just public transport, just get their version of EZ Link cards (Oyster cards!) </h2>
+		<h2> We got around using the train, and even the trains are old! They call the train stations Tube stations (though I'm not sure if they call the train itself tube... It sounds very strange to call it that.) If you ever go to London, you should get around fine with just public transport, just get their version of EZ Link cards (Oyster cards!) They hate anyone who talks loudly on trains and generally keep to themselves, which was quite a culture shock for me as I expected them to be like Aussies (whom are quite the opposite). </h2>
 		<img src="http://68.media.tumblr.com/729e1c17072f341867e02b895b0c5472/tumblr_omdl4wzjGK1vgzyxso1_540.jpg">
 		<img src="http://68.media.tumblr.com/8c6bab41bdd154c157963476fc6717af/tumblr_omdl4wzjGK1vgzyxso3_540.jpg">
 		<img src="http://68.media.tumblr.com/1ff32cb9ff2afddcf1660c0f8090bebc/tumblr_omdl4wzjGK1vgzyxso2_540.jpg">
@@ -289,10 +289,10 @@
 		<img src="http://68.media.tumblr.com/19c80fb2ca3f24b158f490d5523480bd/tumblr_omduvw7sYO1vgzyxso1_540.jpg">
 		<img src="http://68.media.tumblr.com/4e8fe488b0ed7e215a8dfeb13c8333bf/tumblr_omdt2mhrIZ1vgzyxso2_540.jpg">
 		
-	<h2> And then it was back to Singapore~ It was fun experiencing the British way of life for the 9-10 days we were there ^^ </h2>
+	<h2> And then it was back to Singapore~ It was fun experiencing the British way of life for the 9-10 days we were there ^^ And I'm really glad that I got to experience both the city and countryside of life there!  </h2>
 		<img src="https://68.media.tumblr.com/d3d5e2495633ff4f1c22ca7f8bfa6cda/tumblr_omox6iyPvU1vgzyxso2_1280.jpg">
 	<p>
-	<a href="Australia2016.html"><p> Previous Post: Australia 2015 </p></a>
+	<a href="Australia2016.html"><p> Previous Post: Australia 2015 </p></a> <a href="Artscience2017.html"><p> Next Post: Art Science Museum 2017 </p></a>
 	</div>
 	
 	
